@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calci</string>
+    <string name="enter_divider">Enter Divider</string>
+    <string name="enter_divisor">Enter Divisor</string>
+    <string name="divide">DIVIDE!</string>
+    <string name="what_do_you_want_to_divide">What do you want to divide?</string>
+    <string name="reset">reset</string>
+    <string name="result">RESULT</string>
+    <string name="enter_dividend">Enter Dividend</string>
+    <string name="equal">=</string>
+    <string name="result1">RESULT</string>
+</resources>
